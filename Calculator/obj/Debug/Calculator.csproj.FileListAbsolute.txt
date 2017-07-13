@@ -1,0 +1,6 @@
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\will sims\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
